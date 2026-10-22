@@ -1,4 +1,8 @@
-![alt text](accl-lockup-colour-on-navy.svg "ACCL Logo")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="accl-lockup-colour-reverse.svg">
+  <source media="(prefers-color-scheme: light)" srcset="accl-lockup-colour.svg">
+  <img alt="ACCL Logo" src="accl-lockup-colour-on-navy.svg">
+</picture>
 
 # KAUST Accelerated Connected Computing Lab
 
